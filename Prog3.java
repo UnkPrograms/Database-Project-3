@@ -84,8 +84,8 @@ public class Prog3
         final String oracleURL =   // Magic lectura -> aloe access spell
                         "jdbc:oracle:thin:@aloe.cs.arizona.edu:1521:oracle";
         
-        String username = "cantstoptheunk",    // Oracle DBMS username
-               password = "a5159";    // Oracle DBMS password
+        String username = "NULL",    // Oracle DBMS username
+               password = "NULL";    // Oracle DBMS password
 
 
         // load the (Oracle) JDBC driver by initializing its base
